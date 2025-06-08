@@ -1,0 +1,29 @@
+✅ Prompt to Generate This HTML (Detailed Prompt):
+Prompt:
+
+Create a clean, modern AI chat assistant web interface using HTML. The interface should include:
+
+A sidebar on the left with:
+
+A “New Chat” button with an icon.
+
+A “Clear History” button with a trash icon (in red).
+
+A scrollable area for past chat history.
+
+A main chat area on the right with:
+
+A header showing the assistant’s name and a menu toggle button.
+
+A welcome message on load.
+
+A scrollable area where chat messages will appear.
+
+An input box at the bottom for typing user messages.
+
+A send button with a paper plane icon.
+
+Link to external style.css for styles and script.js for functionality.
+
+Use semantic HTML where possible and make sure all interactive elements have id attributes for JavaScript control. Make it mobile-responsive using meta viewport.
+

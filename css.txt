@@ -1,0 +1,23 @@
+✅ Detailed Prompt to Generate This CSS:
+Prompt:
+
+Write a full modern, clean, and responsive CSS stylesheet for an AI chat assistant web app. The design should include:
+
+A sidebar with gradient header, buttons for "New Chat" and "Clear History", and styled chat history items with hover and active states.
+
+A chat area with a gradient header, assistant title, message area, welcome message, input field, and send button.
+
+Use :root variables for theme colors including primary, secondary, message background colors, gradients, and shadows.
+
+Style both user and bot messages with different background colors and animations on appearance.
+
+Add a typing indicator with animated dots.
+
+Include media queries for mobile responsiveness (e.g., collapsing the sidebar and resizing input/buttons).
+
+Use a subtle SVG background pattern in the chat message area.
+
+Ensure smooth transitions, hover states, shadows, and spacing for a polished UI feel.
+
+The CSS should be compatible with the corresponding HTML structure and use class-based styling (no IDs for styling). Use modern CSS features and include animations for message appearance and welcome message fade-in.
+
